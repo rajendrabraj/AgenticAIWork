@@ -29,15 +29,16 @@ Creation Date : May/June'2025
 
 **Main Folder and Programs are here
 
-https://github.com/rajendrabraj/AgenticAI2025/tree/main/Document_Loaders
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/Extract_All_Links.py
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/ParseContentsofHTML.py
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/Process_WebSite_Data.py
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/Read_FromWikipedia.py
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/Read_Using_WebbasedLoader.py
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/Retrieve_PDF_Contents.py
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/Read_Using_WebbasedLoader.py
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Document_Loaders/Retrieve_WebDocs.py
+https://github.com/rajendrabraj/AgenticAIWork/tree/main/Document_Loaders
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/Extract_All_Links.py
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/ParseContentsofHTML.py
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/Process_WebSite_Data.py
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/Read_FromWikipedia.py
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/Read_Using_WebbasedLoader.py
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/Retrieve_PDF_Contents.py
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/Read_Using_WebbasedLoader.py
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Document_Loaders/Retrieve_WebDocs.py
+
 
 
 
