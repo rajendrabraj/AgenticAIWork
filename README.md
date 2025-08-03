@@ -198,12 +198,6 @@ PINE_CONE_API_KEY=    "XXXXXXXXXXXXXXXXXXXXXXX”
 ---
 
 
-##  **Assignment One** 
-
-
-
-![image](https://github.com/user-attachments/assets/7b3fad73-e161-43c4-993a-b7646a43eb28)
-
 
 ** Some of my practical implementations
 
