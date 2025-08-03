@@ -21,7 +21,7 @@ https://github.com/rajendrabraj/AgenticAIWork/blob/main/LangChainPrograms/LangCh
 https://github.com/rajendrabraj/AgenticAIWork/blob/main/LangChainPrograms/LangChain_Assignments/LangChainQueryWeb.py
 https://github.com/rajendrabraj/AgenticAIWork/blob/main/LangChainPrograms/LangChain_Assignments/Product_JSON_OutputParser.py
 https://github.com/rajendrabraj/AgenticAIWork/blob/main/LangChainPrograms/LangChain_Assignments/Products_StringOutputParser.py
-
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/LangChain_Assignments/Travel_Planner_Assitant.py
 
 
 ---
