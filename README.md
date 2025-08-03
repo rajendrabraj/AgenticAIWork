@@ -219,7 +219,8 @@ https://github.com/rajendrabraj/AgenticAIWork/tree/main/Document_Loaders
 
 ##  **📝LangChain , Langgraph Assignments  (Programs)**
 
-https://github.com/rajendrabraj/AgenticAIWork/tree/main/LangChainPrograms/LangChain_Assignments](https://github.com/rajendrabraj/AgenticAIWork/tree/main/LangChain_Assignments
+https://github.com/rajendrabraj/AgenticAIWork/tree/main/LangChain_Assignments
+
 
 ##  **📝AutGen Work**
 
