@@ -1,4 +1,4 @@
-# AgenticAI2025
+# Agentic AI Work Respository
 
 **AI , Generative AI and Agentic Repository and Github**
 
