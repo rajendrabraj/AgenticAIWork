@@ -205,13 +205,7 @@ PINE_CONE_API_KEY=    "XXXXXXXXXXXXXXXXXXXXXXX”
 ![image](https://github.com/user-attachments/assets/7b3fad73-e161-43c4-993a-b7646a43eb28)
 
 
-Programs and assignment are here :
-
-##   **📝Assignment One** 
-
-These are the JSON related Programs
-
-https://github.com/rajendrabraj/AgenticAI2025/tree/main/Assignment_One
+** Some of my practical implementations
 
 ---
 
@@ -219,13 +213,13 @@ https://github.com/rajendrabraj/AgenticAI2025/tree/main/Assignment_One
 
 These are the PDF and Document Parsers i.e Wikipedia , HTML based parsers , PDFParsers, Text Loaders and Text Parsers.
 
-https://github.com/rajendrabraj/AgenticAI2025/tree/main/Document_Loaders
+https://github.com/rajendrabraj/AgenticAIWork/tree/main/Document_Loaders
 
 ---
 
 ##  **📝LangChain , Langgraph Assignments  (Programs)**
 
-https://github.com/rajendrabraj/AgenticAI2025/tree/main/LangChainPrograms/LangChain_Assignments
+https://github.com/rajendrabraj/AgenticAIWork/tree/main/LangChainPrograms/LangChain_Assignments
 
 ---
 
