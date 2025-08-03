@@ -34,8 +34,8 @@ An AI agent is a software system that uses artificial intelligence to interact w
 
 **🤖What is Agentic RAG**
 
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Assets_Images/What_is_Agentic_AI.png
 
-![image](https://github.com/user-attachments/assets/dc413044-ad08-481d-a0a5-692f640125d5)
 
 **Source is google and credits to respective creators of the diagrams.
 
