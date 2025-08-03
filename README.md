@@ -151,7 +151,7 @@ A vector database is a specialized type of database that stores, manages, and se
 
 It is necessary to define the folders, files, env, programs in a well defined format, hence refer to the project structure as below.
 
-https://github.com/rajendrabraj/AgenticAI2025/blob/main/Assets_Images/Project_Struture.png
+https://github.com/rajendrabraj/AgenticAIWork/blob/main/Assets_Images/Project_Struture.png
 
 
 
