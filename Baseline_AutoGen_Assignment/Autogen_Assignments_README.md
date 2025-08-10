@@ -3,7 +3,7 @@
 ****Part A: Inner Team Integration 
 
 🧑‍💻  ****Inner Team Integration.
-
+---
 
 
 * 📚 This is more of Inner Team Integration by using Autogen calls multiple Inner Agent and UserProxy is used to ask a question with Human Input.
@@ -15,7 +15,7 @@
 	✅ Provide additional context or constraints
 	✅ Override agent decisions when necessary
 
-**Program Code** :  🛠️ https://github.com/rajendrabraj/AgenticAI2025/blob/main/AutoGenClassNotes/Baseline_AutoGen_Assignment/Autogen__InnerTeam.py
+**Program Code** :  🛠️  https://github.com/rajendrabraj/AgenticAIWork/blob/main/Baseline_AutoGen_Assignment/Autogen__InnerTeam.py
 
 ---
 
@@ -28,8 +28,10 @@
 ✅ Position UserProxyAgent strategically to manage inter-team communication
 ✅ Enable human oversight of:
 ✅ Team coordination decisions , Resource allocation between teams, Final output validation
+---
+**Program Code** :   🛠️  https://github.com/rajendrabraj/AgenticAIWork/blob/main/Baseline_AutoGen_Assignment/Autogen_OuterTeam_Integration.py
 
-**Program Code** :   🛠️  https://github.com/rajendrabraj/AgenticAI2025/blob/main/AutoGenClassNotes/Baseline_AutoGen_Assignment/Autogen_OuterTeam_Integration.py
+---
 
 **Flow Chart** :  🛠️   https://github.com/rajendrabraj/AgenticAIWork/blob/main/Baseline_AutoGen_Assignment/Outer_Team_Integration_Final_Flow.png
 
