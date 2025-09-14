@@ -6,7 +6,7 @@
 
 📚 Few of the N8n Workflow are added to the repository :  
 
-Repository Link :    https://github.com/rajendrabraj/AgenticAI2025/tree/main/n8n_Workflows
+Repository Link :    https://github.com/rajendrabraj/AgenticAIWork/tree/main/n8n_Worklfows
 
 ----
 N8n Use cases Experimented :  
