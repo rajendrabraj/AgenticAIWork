@@ -226,6 +226,12 @@ https://github.com/rajendrabraj/AgenticAIWork/tree/main/Baseline_AutoGen_Assignm
 
 ---
 
+##  **📝 CREWAI applications and Use Cases
+
+https://github.com/rajendrabraj/AgenticAIWork/tree/main/CREWAI
+
+---
+
 ##  **🤝Know About me**
 
 Seasoned Leader with 24+ years of experience in leading large scale digital transformation programs, technology modernization, and regulatory initiatives across
