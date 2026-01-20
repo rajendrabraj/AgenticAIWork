@@ -16,7 +16,7 @@ Hierarchical: A "manager" agent is automatically created (or custom-defined) to 
 
 📚 Few of the CrewAI programs are added to the repository :  
 
-Repository Link :    https://github.com/rajendrabraj/AgenticAI2025/tree/main/CrewAI
+Repository Link :   https://github.com/rajendrabraj/AgenticAIWork/tree/main/CREWAI
 
 ----
 Crew AI Use cases Experimented the programs are in this folder.
